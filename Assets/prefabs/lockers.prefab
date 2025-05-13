@@ -331,7 +331,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 2ef5cccbf9af996448903a637411876a, type: 3}
       propertyPath: m_Name
-      value: locker
+      value: lockers
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 2ef5cccbf9af996448903a637411876a, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 2ef5cccbf9af996448903a637411876a, type: 3}
       propertyPath: m_LocalScale.x
